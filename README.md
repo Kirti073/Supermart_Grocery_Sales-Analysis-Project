@@ -1,4 +1,4 @@
-# Supermart_Grocery_Sales-Analysis-Project
+# Supermart_Sales_Analysis
 This project analyzes sales data from a fictional grocery store, **Supermart**, using various machine learning models to predict sales performance. The primary goal is to explore the dataset, engineer relevant features, and evaluate the effectiveness of different predictive models.
 
 ### Key Steps:
